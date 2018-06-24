@@ -1,5 +1,5 @@
 {
-    "name": "angular-native-seed",
+    "name": "angularnative_personal",
     "version": "0.0.0",
     "scripts": {
         "postinstall": "node symlink.js",
